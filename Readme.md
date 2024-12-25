@@ -8,7 +8,8 @@ Here is a sample README file for your project:
 **Description**
 ---------------
 
-[ Briefly describe your project and its purpose ]
+This project is a task management application that allows users to create, manage, and track their tasks efficiently. It provides user authentication, task creation, update, and deletion functionalities. The application also supports file uploads for user avatars and sends email notifications for account-related activities. Built with Node.js, Express, and MongoDB, it offers a RESTful API for seamless integration with front-end clients.
+
 
 **Routes**
 ---------
